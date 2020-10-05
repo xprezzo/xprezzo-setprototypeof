@@ -1,0 +1,25 @@
+{
+  "name": "xprezzo-setprototypeof",
+  "version": "1.1.0",
+  "description": "A small polyfill for Object.setprototypeof",
+  "author": "Ben Ajenoui <info@seohero.io>",
+  "license": "MIT",
+  "repository": "xprezzo/xprezzo-setprototypeof",
+  "homepage": "https://github.com/xprezzo",
+  "main": "index.js",
+  "keywords": [
+    "polyfill",
+    "object",
+    "mixin",
+    "setprototypeof"
+  ],
+  "dependencies": {
+    "xprezzo-mixin": "1.1.0"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "devDependencies": {
+    "mocha": "^8.1.3"
+  }
+}

@@ -1,8 +1,8 @@
 {
   "name": "xprezzo-setprototypeof",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A small polyfill for Object.setprototypeof",
-  "author": "Ben Ajenoui <info@seohero.io>",
+  "author": "Cloudgen Wong <cloudgen.wong@gmail.com>",
   "license": "MIT",
   "repository": "xprezzo/xprezzo-setprototypeof",
   "homepage": "https://github.com/xprezzo",
@@ -14,12 +14,12 @@
     "setprototypeof"
   ],
   "dependencies": {
-    "xprezzo-mixin": "1.1.1"
+    "xprezzo-mixin": "1.1.2"
   },
   "scripts": {
     "test": "mocha test"
   },
   "devDependencies": {
-    "mocha": "^8.2.0"
+    "mocha": "^10.0.0"
   }
 }
